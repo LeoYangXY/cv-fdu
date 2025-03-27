@@ -1,0 +1,1 @@
+{"input_dim": 3072, "hidden_dim1": 512, "hidden_dim2": 128, "output_dim": 10, "activation": "swish"}
